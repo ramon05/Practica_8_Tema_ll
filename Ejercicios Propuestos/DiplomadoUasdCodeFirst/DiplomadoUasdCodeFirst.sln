@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomadoUasdCodeFirst", "DiplomadoUasdCodeFirst\DiplomadoUasdCodeFirst.csproj", "{890612A3-2F0E-4AEA-BE1A-416526F0463E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomadoCodeFirstModel", "DiplomadoCodeFirstModel\DiplomadoCodeFirstModel.csproj", "{9A236CD6-A194-4416-A726-311F6828BAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{890612A3-2F0E-4AEA-BE1A-416526F0463E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890612A3-2F0E-4AEA-BE1A-416526F0463E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890612A3-2F0E-4AEA-BE1A-416526F0463E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890612A3-2F0E-4AEA-BE1A-416526F0463E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A236CD6-A194-4416-A726-311F6828BAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A236CD6-A194-4416-A726-311F6828BAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A236CD6-A194-4416-A726-311F6828BAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A236CD6-A194-4416-A726-311F6828BAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499F5559-69F7-49EB-85AE-CB30F6E13119}
+	EndGlobalSection
+EndGlobal

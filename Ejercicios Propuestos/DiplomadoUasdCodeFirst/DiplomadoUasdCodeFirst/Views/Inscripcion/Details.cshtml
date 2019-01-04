@@ -1,0 +1,42 @@
+﻿@model DiplomadoCodeFirstModel.Models.Inscripcion
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Inscripcion</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Curso.Descrpcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Curso.Descrpcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estudiante.Nombres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estudiante.Nombres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Semestre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Semestre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.InscripcionID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,12 @@
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\obj\Debug\CodeFirtsModel.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\obj\Debug\CodeFirtsModel.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\CodeFirtsModel.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\CodeFirtsModel.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\CodeFirtsModel.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\obj\Debug\CodeFirtsModel.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\obj\Debug\CodeFirtsModel.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Ejemplos\Proyecto2-8-CodeFirts\CodeFirtsModel\obj\Debug\CodeFirtsModel.pdb

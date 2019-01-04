@@ -1,0 +1,42 @@
+﻿@model CodeFirtsModel.Models.Registro
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Registro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Departamento.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departamento.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.Nombres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.Nombres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sueldo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sueldo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RegistroID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

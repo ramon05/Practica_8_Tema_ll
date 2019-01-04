@@ -1,0 +1,12 @@
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\DiplomadoCodeFirstModel.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\DiplomadoCodeFirstModel.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\DiplomadoCodeFirstModel.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\obj\Debug\DiplomadoCodeFirstModel.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\obj\Debug\DiplomadoCodeFirstModel.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\obj\Debug\DiplomadoCodeFirstModel.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\obj\Debug\DiplomadoCodeFirstModel.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica Unidad2\Practica2-8\Ejercicios Propuestos\DiplomadoUasdCodeFirst\DiplomadoCodeFirstModel\obj\Debug\DiplomadoCodeFirstModel.pdb
